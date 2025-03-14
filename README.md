@@ -23,8 +23,8 @@ Before running the project, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/yona158/Real-Estate-Smart-Contract.git
+cd Real-Estate-Smart-Contract
 ```
 
 ### 2. Install Dependencies
