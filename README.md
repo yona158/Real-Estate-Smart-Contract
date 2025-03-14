@@ -1,7 +1,7 @@
 # Real Estate Smart Contract
 
 ## Description
-This project is a decentralized application (dApp) for managing real estate properties on the Ethereum blockchain. Built using** Solidity**, **Truffle**, and **Ganache**, it allows users to register properties, list them for sale, buy properties, and handle transactions with government approval. The smart contract ensures secure and transparent property transactions, with features like tax calculations, refund mechanisms, and property ownership tracking.
+This project is a decentralized application (dApp) for managing real estate properties on the Ethereum blockchain. Built using **Solidity**, **Truffle**, and **Ganache**, it allows users to register properties, list them for sale, buy properties, and handle transactions with government approval. The smart contract ensures secure and transparent property transactions, with features like tax calculations, refund mechanisms, and property ownership tracking.
 
 ## Features
 **Property Registration:** Register properties with details like location, price, and owner.
