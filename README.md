@@ -17,11 +17,8 @@ This project is a decentralized application (dApp) for managing real estate prop
 Before running the project, ensure you have the following installed:
 
 **1- Node.js** (v16.x or later)
-
 **2- Truffle** (npm install -g truffle)
-
 **3- Ganache** (Download from [Ganache](https://trufflesuite.com/ganache/))
-
 **4- MetaMask** (Optional, for interacting with the dApp)
 
 # Setup Instructions
