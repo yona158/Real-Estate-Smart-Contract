@@ -29,7 +29,9 @@ cd Real-Estate-Smart-Contract
 
 ### 2. Install Dependencies
 Install the required Node.js packages:
-```npm install```
+```
+npm install
+```
 
 ### 3. Start Ganache
 - Open Ganache and click **"Quickstart"** to launch a local Ethereum blockchain.
@@ -56,11 +58,15 @@ module.exports = {
 
 ### 5. Compile and Deploy the Contract
 Compile and deploy the smart contract to Ganache:
-```truffle migrate --network development```
+```
+truffle migrate --network development
+```
 
 ### 6. Interact with the Contract
 You can interact with the contract using **Truffle Console**:
-```truffle console --network development```
+```
+truffle console --network development
+```
 
 ### File Structure
 ```
@@ -79,7 +85,9 @@ project/
 
 ## Testing
 To run tests, use the following command:
-```truffle test```
+```
+truffle test
+```
 
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
