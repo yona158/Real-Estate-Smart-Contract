@@ -4,12 +4,19 @@
 This project is a decentralized application (dApp) for managing real estate properties on the Ethereum blockchain. Built using **Solidity**, **Truffle**, and **Ganache**, it allows users to register properties, list them for sale, buy properties, and handle transactions with government approval. The smart contract ensures secure and transparent property transactions, with features like tax calculations, refund mechanisms, and property ownership tracking.
 
 ## Features
+
 **Property Registration:** Register properties with details like location, price, and owner.
+
 **Property Listing:** List properties for sale or remove them from the market.
+
 **Buy Property:** Users can buy properties, with payments requiring government approval.
+
 **Government Approval:** The government can approve or reject property sales.
+
 **Tax Calculation:** A 2% tax is deducted from each sale and transferred to the government.
+
 **Refund Mechanism:** Buyers can request refunds if the sale is rejected.
+
 **Property Details:** Retrieve detailed information about any property.
 
 ## Prerequisites
