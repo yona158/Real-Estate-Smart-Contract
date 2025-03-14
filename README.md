@@ -5,26 +5,26 @@ This project is a decentralized application (dApp) for managing real estate prop
 
 ## Features
 
-**Property Registration:** Register properties with details like location, price, and owner.
+- **Property Registration:** Register properties with details like location, price, and owner.
 
-**Property Listing:** List properties for sale or remove them from the market.
+- **Property Listing:** List properties for sale or remove them from the market.
 
-**Buy Property:** Users can buy properties, with payments requiring government approval.
+- **Buy Property:** Users can buy properties, with payments requiring government approval.
 
-**Government Approval:** The government can approve or reject property sales.
+- **Government Approval:** The government can approve or reject property sales.
 
-**Tax Calculation:** A 2% tax is deducted from each sale and transferred to the government.
+- **Tax Calculation:** A 2% tax is deducted from each sale and transferred to the government.
 
-**Refund Mechanism:** Buyers can request refunds if the sale is rejected.
+- **Refund Mechanism:** Buyers can request refunds if the sale is rejected.
 
-**Property Details:** Retrieve detailed information about any property.
+- **Property Details:** Retrieve detailed information about any property.
 
 ## Prerequisites
 Before running the project, ensure you have the following installed:
 **1- Node.js** (v16.x or later)
-**2-Truffle** (npm install -g truffle)
-**3-Ganache** (Download from [Ganache](https://trufflesuite.com/ganache/))
-**4-MetaMask** (Optional, for interacting with the dApp)
+**2- Truffle** (npm install -g truffle)
+**3- Ganache** (Download from [Ganache](https://trufflesuite.com/ganache/))
+**4- MetaMask** (Optional, for interacting with the dApp)
 
 # Setup Instructions
 
